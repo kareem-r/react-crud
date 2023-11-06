@@ -1,0 +1,72 @@
+{
+  "admins": [
+    {
+      "Name": "kareem",
+      "Password": "123",
+      "Email": "kareembadawy74@gmail.com",
+      "Phone": "01554011161",
+      "Country": "Egypt",
+      "Gender": "Male",
+      "id": 1
+    },
+    {
+      "Name": "toka",
+      "Password": "123",
+      "Email": "toka@gmail.com",
+      "Phone": "01554011161",
+      "Country": "Egypt",
+      "Gender": "Male",
+      "id": 2
+    },
+    {
+      "Name": "",
+      "Password": "",
+      "Email": "",
+      "Phone": "",
+      "Country": "",
+      "Gender": "",
+      "id": 3
+    },
+    {
+      "Name": "",
+      "Password": "",
+      "Email": "",
+      "Phone": "",
+      "Country": "",
+      "Gender": "",
+      "id": 4
+    },
+    {
+      "Name": "kkk",
+      "Password": "",
+      "Email": "",
+      "Phone": "",
+      "Country": "",
+      "Gender": "",
+      "id": 5
+    },
+    {
+      "Name": "kareem",
+      "Password": "19101976",
+      "Email": "kareembadawy159@gmail.com",
+      "Phone": "01554011161",
+      "Country": "Egypt",
+      "Gender": "Male",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "userName": "adam",
+      "email": "badawykareem74@gmail.com",
+      "country": "Egypy",
+      "id": 1
+    },
+    {
+      "userName": "mo",
+      "email": "kareem.ahmed_a029@fci.kfs.edu.2m",
+      "country": "Egypy",
+      "id": 2
+    }
+  ]
+}
